@@ -1,0 +1,6 @@
+Feature,Threshold,Type
+PAY_0,1.0,Payment Behavior
+DELAYED_MONTHS_COUNT,3.0,Payment Pattern
+CREDIT_UTILIZATION,0.8,Credit Usage
+MAX_PAYMENT_DELAY,2.0,Payment History
+PAYMENT_RATIO,0.1,Payment Capacity
